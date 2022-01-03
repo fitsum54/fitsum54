@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @fitsum54
+- 👀 I’m interested in web and app development in general software development...
+- 🌱 I’m currently learning electrical and computer engineering ...
+- 💞️ I’m looking to collaborate on web development project...
+- 📫 u can reach me on email("fitsumkasaye24@gmail.com")
+<!---
+fitsum54/fitsum54 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
